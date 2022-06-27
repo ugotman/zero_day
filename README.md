@@ -1,2 +1,1 @@
-first readme
-# zero_day
+my first readme
